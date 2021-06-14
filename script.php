@@ -1,0 +1,1 @@
+echo "Ama no hashidate";
